@@ -18,5 +18,4 @@ The goal is to classify records based on behaviors like:
 - Vertex AI Jupyter Notebooks
 - Python 3
 - SQL
-- Git & GitHub
 
